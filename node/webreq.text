@@ -1,0 +1,4 @@
+get = to get data from server  // client side
+post= send data to  server
+put = send and update data
+delete = delete data from server
